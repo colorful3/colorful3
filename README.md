@@ -7,7 +7,7 @@ I have two hobbies, One is computer technology, the other is basketball. And mor
 - 💬 Ask me about [lincms](https://doc.cms.talelin.com/)
 - ⚡ Fun fact: I hate Secondary yuan culture
 
-<p align="left">
-  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=colorful3&show_icons=true&theme=synthwave" alt="colorful3 :: Profile Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colorful3&langs_count=6&theme=synthwave&hide=JavaScript,CSS,HTML,PLpgSQL,Smarty&layout=compact" alt="colorful3 :: Top Langs" />
-</p>
+
+[![colorful3 :: Profile Stats](https://github-readme-stats.vercel.app/api?username=colorful3&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![colorful3 :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colorful3&langs_count=6&theme=synthwave&hide=JavaScript,CSS,HTML,PLpgSQL,Smarty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
