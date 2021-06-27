@@ -9,5 +9,5 @@ I have two hobbies, One is computer technology, the other is basketball. And mor
 
 <p align="left">
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=colorful3&show_icons=true&theme=synthwave" alt="colorful3 :: Profile Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colorful3&langs_count=8&theme=synthwave&layout=compact" alt="colorful3 :: Top Langs" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colorful3&langs_count=6&theme=synthwave&hide=JavaScript,CSS,HTML,PLpgSQL,Smarty&layout=compact" alt="colorful3 :: Top Langs" />
 </p>
